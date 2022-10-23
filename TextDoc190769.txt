@@ -1,0 +1,7 @@
+Как выйти из git log?
+
+Можно разными способами выйти из просмотра логов git log:
+
+HotKey Ctrl + C
+HotKey Ctrl + Break
+Ввести Q и нажать Enter
